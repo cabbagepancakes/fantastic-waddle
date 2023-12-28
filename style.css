@@ -58,7 +58,7 @@ font-size:1.6rem;
     place-self: center;
     background-color:var(--clr-white);
     padding:1.5rem;
-    max-width: 32rem;
+    max-width: 34rem;
     border-radius:var(--br);
     border:1px solid black;
     display:flex;
